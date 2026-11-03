@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sat Oct 31 21:30:25 2026
+# Process ID         : 27904
+# Current directory  : C:/Users/coolf/Vivado/Lab2.2/Lab2.2.runs/synth_1
+# Command line       : vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file           : C:/Users/coolf/Vivado/Lab2.2/Lab2.2.runs/synth_1/top.vds
+# Journal file       : C:/Users/coolf/Vivado/Lab2.2/Lab2.2.runs/synth_1\vivado.jou
+# Running On         : CHARLIBOYYY
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1355U
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 16876 MB
+# Swap memory        : 25769 MB
+# Total Virtual      : 42646 MB
+# Available Virtual  : 17556 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
